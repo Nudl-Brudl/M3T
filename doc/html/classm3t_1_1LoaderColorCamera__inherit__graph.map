@@ -1,0 +1,5 @@
+<map id="m3t::LoaderColorCamera" name="m3t::LoaderColorCamera">
+<area shape="rect" id="node1" title="Camera that allows loading color images from a directory." alt="" coords="5,155,191,181"/>
+<area shape="rect" id="node2" href="$classm3t_1_1ColorCamera.html" title="Abstract Camera class that defines a color camera." alt="" coords="27,80,169,107"/>
+<area shape="rect" id="node3" href="$classm3t_1_1Camera.html" title="Abstract class that provides images to other components and contains intrinsics as well as the pose o..." alt="" coords="45,5,151,32"/>
+</map>

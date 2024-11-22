@@ -1,0 +1,6 @@
+<map id="m3t::FocusedSilhouetteRenderer" name="m3t::FocusedSilhouetteRenderer">
+<area shape="rect" id="node1" title="Renderer that extends the focused depth renderer class with functionality from SilhouetteRendererCore..." alt="" coords="5,229,240,256"/>
+<area shape="rect" id="node2" href="$classm3t_1_1FocusedDepthRenderer.html" title="Abstract Renderer class that defines a focused depth renderer that extends the FocusedRenderer class ..." alt="" coords="19,155,226,181"/>
+<area shape="rect" id="node3" href="$classm3t_1_1FocusedRenderer.html" title="Abstract Renderer class that defines a focused renderer that crops and scales the scene to focus on r..." alt="" coords="39,80,207,107"/>
+<area shape="rect" id="node4" href="$classm3t_1_1Renderer.html" title="Abstract class that defines a renderer as a single camera at a defined location." alt="" coords="65,5,180,32"/>
+</map>

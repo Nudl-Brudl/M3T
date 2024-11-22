@@ -1,0 +1,6 @@
+<map id="m3t::FullSilhouetteRenderer" name="m3t::FullSilhouetteRenderer">
+<area shape="rect" id="node1" title="Renderer that extends the full depth renderer class with functionality from SilhouetteRendererCore to..." alt="" coords="5,229,209,256"/>
+<area shape="rect" id="node2" href="$classm3t_1_1FullDepthRenderer.html" title="Abstract Renderer class that defines a full depth renderer that extends the FullRenderer class with f..." alt="" coords="19,155,196,181"/>
+<area shape="rect" id="node3" href="$classm3t_1_1FullRenderer.html" title="Abstract Renderer class that defines a full renderer that renders the image according to the image wi..." alt="" coords="38,80,177,107"/>
+<area shape="rect" id="node4" href="$classm3t_1_1Renderer.html" title="Abstract class that defines a renderer as a single camera at a defined location." alt="" coords="50,5,165,32"/>
+</map>

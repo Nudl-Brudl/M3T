@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classm3t_1_1Model.html" title="Abstract class that precomputes and stores geometric information from Body objects that is required b..." alt="" coords="5,31,101,57"/>
+<area shape="rect" id="node2" href="$classm3t_1_1DepthModel.html" title="Model that holds a Sparse Viewpoint Model that is generated from a Body and that is used by the Depth..." alt="" coords="153,5,287,32"/>
+<area shape="rect" id="node3" href="$classm3t_1_1RegionModel.html" title="Model that holds a Sparse Viewpoint Model that is generated from a Body and that is used by the Regio..." alt="" coords="149,56,291,83"/>
+</map>

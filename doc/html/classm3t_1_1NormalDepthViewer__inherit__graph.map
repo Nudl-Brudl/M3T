@@ -1,0 +1,5 @@
+<map id="m3t::NormalDepthViewer" name="m3t::NormalDepthViewer">
+<area shape="rect" id="node1" title="Viewer that overlays normalized depth images from a DepthCamera with normal renderings based on the g..." alt="" coords="5,155,193,181"/>
+<area shape="rect" id="node2" href="$classm3t_1_1DepthViewer.html" title="Abstract Viewer class that defines a depth viewer that normalizes images between a set minimum and ma..." alt="" coords="29,80,169,107"/>
+<area shape="rect" id="node3" href="$classm3t_1_1Viewer.html" title="Abstract class that defines a viewer and functionality to view and save images." alt="" coords="49,5,150,32"/>
+</map>

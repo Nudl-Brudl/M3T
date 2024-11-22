@@ -1,0 +1,5 @@
+<map id="m3t::Detector" name="m3t::Detector">
+<area shape="rect" id="node1" title="Abstract class that is able to set the poses of Link and Body objects assigned to a referenced Optimi..." alt="" coords="119,5,231,32"/>
+<area shape="rect" id="node2" href="$classm3t_1_1ManualDetector.html" title="Detector that allows a user to select 4 points in the image and that, based on those points,..." alt="" coords="5,80,165,107"/>
+<area shape="rect" id="node3" href="$classm3t_1_1StaticDetector.html" title="Detector that sets the pose of all Link and Body objects referenced by a single Optimizer object base..." alt="" coords="189,80,339,107"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="m3t::AzureKinectDepthCamera" name="m3t::AzureKinectDepthCamera">
+<area shape="rect" id="node1" title="Camera that allows getting depth images from an AzureKinect camera." alt="" coords="5,155,229,181"/>
+<area shape="rect" id="node2" href="$classm3t_1_1DepthCamera.html" title="Abstract Camera class that defines a depth camera that, in addition to intrinsics,..." alt="" coords="44,80,191,107"/>
+<area shape="rect" id="node3" href="$classm3t_1_1Camera.html" title="Abstract class that provides images to other components and contains intrinsics as well as the pose o..." alt="" coords="64,5,171,32"/>
+</map>

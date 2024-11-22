@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classm3t_1_1Renderer.html" title="Abstract class that defines a renderer as a single camera at a defined location." alt="" coords="5,144,120,171"/>
+<area shape="rect" id="node2" href="$classm3t_1_1FocusedRenderer.html" title="Abstract Renderer class that defines a focused renderer that crops and scales the scene to focus on r..." alt="" coords="168,93,336,120"/>
+<area shape="rect" id="node7" href="$classm3t_1_1FullRenderer.html" title="Abstract Renderer class that defines a full renderer that renders the image according to the image wi..." alt="" coords="183,169,321,196"/>
+<area shape="rect" id="node3" href="$classm3t_1_1FocusedDepthRenderer.html" title="Abstract Renderer class that defines a focused depth renderer that extends the FocusedRenderer class ..." alt="" coords="384,81,591,108"/>
+<area shape="rect" id="node4" href="$classm3t_1_1FocusedBasicDepthRenderer.html" title="Renderer that extends the focused depth renderer class with functionality from BasicDepthRendererCore..." alt="" coords="639,5,881,32"/>
+<area shape="rect" id="node5" href="$classm3t_1_1FocusedNormalRenderer.html" title="Renderer that extends the focused depth renderer class with functionality from NormalRendererCore to ..." alt="" coords="652,56,868,83"/>
+<area shape="rect" id="node6" href="$classm3t_1_1FocusedSilhouetteRenderer.html" title="Renderer that extends the focused depth renderer class with functionality from SilhouetteRendererCore..." alt="" coords="643,107,877,133"/>
+<area shape="rect" id="node8" href="$classm3t_1_1FullDepthRenderer.html" title="Abstract Renderer class that defines a full depth renderer that extends the FullRenderer class with f..." alt="" coords="399,189,576,216"/>
+<area shape="rect" id="node9" href="$classm3t_1_1FullBasicDepthRenderer.html" title="Renderer that extends the full depth renderer class with functionality from BasicDepthRendererCore to..." alt="" coords="654,157,866,184"/>
+<area shape="rect" id="node10" href="$classm3t_1_1FullNormalRenderer.html" title="Renderer that extends the full depth renderer class with functionality from NormalRendererCore to ren..." alt="" coords="667,208,853,235"/>
+<area shape="rect" id="node11" href="$classm3t_1_1FullSilhouetteRenderer.html" title="Renderer that extends the full depth renderer class with functionality from SilhouetteRendererCore to..." alt="" coords="658,259,862,285"/>
+</map>

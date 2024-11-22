@@ -1,0 +1,8 @@
+<map id="m3t::ColorCamera" name="m3t::ColorCamera">
+<area shape="rect" id="node1" title="Abstract Camera class that defines a color camera." alt="" coords="160,81,301,108"/>
+<area shape="rect" id="node3" href="$classm3t_1_1AzureKinectColorCamera.html" title="Camera that allows getting color images from an AzureKinect camera." alt="" coords="349,5,568,32"/>
+<area shape="rect" id="node4" href="$classm3t_1_1LoaderColorCamera.html" title="Camera that allows loading color images from a directory." alt="" coords="366,56,551,83"/>
+<area shape="rect" id="node5" href="$classm3t_1_1RealSenseColorCamera.html" title="Camera that allows getting color images from a RealSense camera." alt="" coords="354,107,563,133"/>
+<area shape="rect" id="node6" href="$classm3t_1_1RosColorCamera.html" title="Camera that allows loading color images from a ROS topic." alt="" coords="376,157,541,184"/>
+<area shape="rect" id="node2" href="$classm3t_1_1Camera.html" title="Abstract class that provides images to other components and contains intrinsics as well as the pose o..." alt="" coords="5,81,112,108"/>
+</map>

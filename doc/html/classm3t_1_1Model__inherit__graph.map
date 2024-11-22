@@ -1,0 +1,5 @@
+<map id="m3t::Model" name="m3t::Model">
+<area shape="rect" id="node1" title="Abstract class that precomputes and stores geometric information from Body objects that is required b..." alt="" coords="106,5,202,32"/>
+<area shape="rect" id="node2" href="$classm3t_1_1DepthModel.html" title="Model that holds a Sparse Viewpoint Model that is generated from a Body and that is used by the Depth..." alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node3" href="$classm3t_1_1RegionModel.html" title="Model that holds a Sparse Viewpoint Model that is generated from a Body and that is used by the Regio..." alt="" coords="165,80,306,107"/>
+</map>

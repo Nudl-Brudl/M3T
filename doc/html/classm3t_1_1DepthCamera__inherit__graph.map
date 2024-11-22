@@ -1,0 +1,8 @@
+<map id="m3t::DepthCamera" name="m3t::DepthCamera">
+<area shape="rect" id="node1" title="Abstract Camera class that defines a depth camera that, in addition to intrinsics,..." alt="" coords="160,81,307,108"/>
+<area shape="rect" id="node3" href="$classm3t_1_1AzureKinectDepthCamera.html" title="Camera that allows getting depth images from an AzureKinect camera." alt="" coords="355,5,579,32"/>
+<area shape="rect" id="node4" href="$classm3t_1_1LoaderDepthCamera.html" title="Camera that allows loading depth images from a directory." alt="" coords="371,56,562,83"/>
+<area shape="rect" id="node5" href="$classm3t_1_1RealSenseDepthCamera.html" title="Camera that allows getting depth images from a RealSense camera." alt="" coords="359,107,574,133"/>
+<area shape="rect" id="node6" href="$classm3t_1_1RosDepthCamera.html" title="Camera that allows loading depth images from a ROS topic." alt="" coords="381,157,552,184"/>
+<area shape="rect" id="node2" href="$classm3t_1_1Camera.html" title="Abstract class that provides images to other components and contains intrinsics as well as the pose o..." alt="" coords="5,81,112,108"/>
+</map>

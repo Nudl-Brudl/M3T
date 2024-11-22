@@ -1,0 +1,5 @@
+<map id="m3t::RosDepthCamera" name="m3t::RosDepthCamera">
+<area shape="rect" id="node1" title="Camera that allows loading depth images from a ROS topic." alt="" coords="5,155,176,181"/>
+<area shape="rect" id="node2" href="$classm3t_1_1DepthCamera.html" title="Abstract Camera class that defines a depth camera that, in addition to intrinsics,..." alt="" coords="17,80,164,107"/>
+<area shape="rect" id="node3" href="$classm3t_1_1Camera.html" title="Abstract class that provides images to other components and contains intrinsics as well as the pose o..." alt="" coords="37,5,144,32"/>
+</map>
