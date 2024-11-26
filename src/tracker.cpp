@@ -340,7 +340,7 @@ bool Tracker::ROSTracking(int iteration) {
   if (!synchronize_cameras_) WaitUntilCycleEnds(begin);
 
   auto duration = std::chrono::duration_cast<std::chrono::milliseconds>(end_time - begin).count();
-  std::cout << "Tracking Time: " << duration << "ms" << std::endl; 
+  // std::cout << "Tracking Time: " << duration << "ms" << std::endl; 
 
   return true;
 }
