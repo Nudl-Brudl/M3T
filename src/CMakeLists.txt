@@ -34,7 +34,8 @@ set(SOURCES
         publisher.cpp
         subscriber.cpp
         tracker.cpp
-        ros_camera.cpp)
+        ros_camera.cpp
+        offline_measurement_subscriber.cpp)
 
 set(HEADERS 
         ../include/m3t/common.h
@@ -69,7 +70,8 @@ set(HEADERS
         ../include/m3t/subscriber.h
         ../include/m3t/tracker.h
         ../include/m3t/generator.h
-        ../include/m3t/ros_camera.h)
+        ../include/m3t/ros_camera.h
+        ../include/m3t/offline_measurement_subscriber.h)
 
 if (USE_AZURE_KINECT)
     list(APPEND SOURCES azure_kinect_camera.cpp)
