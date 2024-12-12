@@ -16,8 +16,6 @@ class OfflineMeasurementSubscriber : public Subscriber {
   // Constructor
   OfflineMeasurementSubscriber(
     const std::string &name, 
-    const bool &use_texture,
-    const bool &use_depth,
     const std::filesystem::path &csv_file_path);
 
   // Setup method
@@ -35,8 +33,6 @@ class OfflineMeasurementSubscriber : public Subscriber {
 
  private:
   // Variables
-  bool use_texture_;
-  bool use_depth_;
   std::filesystem::path csv_file_path_;
   std::shared_ptr<LoaderColorCamera> loader_color_camera_ptr_{};
   std::shared_ptr<LoaderDepthCamera> loader_depth_camera_ptr_{};

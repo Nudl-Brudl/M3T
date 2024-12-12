@@ -10,18 +10,12 @@ namespace m3t {
 
 OfflineMeasurementSubscriber::OfflineMeasurementSubscriber(
   const std::string &name, 
-  const bool &use_texture,
-  const bool &use_depth,
   const std::filesystem::path &csv_file_path)
   : Subscriber{name},
-    use_texture_{use_texture},
-    use_depth_{use_depth},
     csv_file_path_{csv_file_path} {
   std::filesystem::create_directories(csv_file_path_.parent_path());
   std::ofstream file(csv_file_path_, std::ios::trunc);
   if (file.is_open()) {
-    file << "use_texture\n" << use_texture_ << "\n\n";
-    file << "use_depth\n" << use_depth_ << "\n\n";
     file << "iteration,rgb_load_index,depth_load_index,r11,r12,r13,p1,r21,r22,r23,p2,r31,r32,r33,p3,e1,e2,e3,e4\n";
     file.close();
   } else {
